@@ -57,7 +57,7 @@ const CATEGORIES = {
     hasCommissionNote: false,
   },
   congresoMX: {
-    label: "Congreso MX",
+    label: "Congreso MX-Inactivo",
     // Spec escrito: AIRR 25%. La imagen de referencia muestra 30.26%
     // (target 30%). Si la imagen es la referencia válida, cambiar a 0.3.
     minAnnualRate: 0.25,
