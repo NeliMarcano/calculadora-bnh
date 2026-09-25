@@ -43,7 +43,7 @@ const CATEGORIES = {
   consonaN8N9: {
     label: "Línea Consona N8-N9",
     minAnnualRate: 0.3,
-    maxInstallments: 24,
+    maxInstallments: 18,
     canPayVATSeparately: true,
     minInitialRate: 0.2,
     hasCommissionNote: false,
